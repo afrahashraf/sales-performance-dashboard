@@ -9,7 +9,7 @@ It was created as part of an internship task and aims to offer clear insights in
 - Total Sales: 632.63K  
 - Total Orders: 1358  
 - Total Profit: 85.80K  
-- Total Customers**: 2739  
+- Total Customers: 2739  
 
 ## Key Visuals
 
@@ -34,6 +34,7 @@ It was created as part of an internship task and aims to offer clear insights in
 📦 sales-performance-dashboard/
 ├── salesanalysis_dashboard.pdf   # Final Power BI report (exported as PDF)
 └── README.md                     # Project documentation
+
 ```
 
 ## 🛠 Tools Used
